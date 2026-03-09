@@ -63,7 +63,7 @@ I'm an AI Agent Builder and Automation Architect who specializes in a **low-code
 
 | Project | Type | Description |
 |---|---|---|
-| 🤖 `ai-agent-(gradeflow)` | `low-code` CrewAI + Replit| AI-powered assessment automation tool for L&D teams - multi-agent system that automates grading workflows using CrewAI orchestration and a full-stack Replit frontend|
+| 🤖 `ai-agent-(gradeflow)` | `low-code` CrewAI + Replit| AI-powered assessment generation tool for L&D teams — ingests course content and instantly produces structured, difficulty-calibrated assessments via a multi-agent CrewAI workflow and Replit-built interface|
 | ⚡ `automation-(team-issue-tracker-automation)` | `[No-Code]` Zapier | End-to-end issue reporting workflow - form submission triggers a Google Sheets log, auto-sends email confirmation to the team member, and fires a Slack alert to the responsible stakeholder for immediate action |
 
 
