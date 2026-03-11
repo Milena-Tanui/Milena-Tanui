@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/milena-tanui-64b898173)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanuimilena@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/milena-tanui)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-555555?style=for-the-badge&logo=vercel&logoColor=white)](https://milena-tanui.github.io/Portfolio/)
 
 </div>
 
