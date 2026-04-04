@@ -2,12 +2,11 @@
 
 # Hey, I'm Milena Tanui 👋🤖
 
-### AI Agent Builder · Automation Architect · Low-Code Specialist
+### AI Agent Builder · Automation Architect · LLM Output Evaluator
 
-*I build AI agents and intelligent automations using a low-code approach —*
-*combining prompt engineering, CrewAI, and AI-assisted dev tools to ship fast and smart.*
+*I build intelligent automations with CrewAI, n8n, and Make — and evaluate AI outputs for correctness, schema validity, and quality on real-world datasets.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/milena-tanui-64b898173)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milena-tanui-64b898173)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanuimilena@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=portfolio&logoColor=white)](https://milena-tanui.github.io/Portfolio/)
 
@@ -23,8 +22,9 @@ I'm an AI Agent Builder and Automation Architect who specializes in a **low-code
 - ⚡ I build **end-to-end automations** with Make, Zapier, and n8n - connecting tools, APIs, and AI models
 - 🎨 I develop **AI-powered apps** rapidly using Lovable and Replit with AI-assisted code generation
 - 🧠 I use **prompt engineering** as a core technical skill - structuring agent logic, tasks, and workflows
-- 👩‍🏫 Former **Team Lead of AI Trainers** at Scale AI - I don't just build AI, I understand how it learns
-- 🎓 Certified in **AI for Everyone** and **Elements of AI for Business**
+- 🔍 I evaluate **LLM outputs and agent tool calls** — rating quality, schema correctness, and outcome accuracy across real annotation datasets
+- 👩‍🏫 Former **Project Team Lead** at Scale AI — coordinating remote AI teams *and* doing hands-on evaluation of tool-calling outputs and agent responses
+- 🎓 Certified in **AI for Everyone**, **Elements of AI for Business**, and **Agentic AI Systems**
 
 ---
 
@@ -41,6 +41,14 @@ I'm an AI Agent Builder and Automation Architect who specializes in a **low-code
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
+### 📋 AI Data Annotation & Evaluation
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-1A1A2E?style=for-the-badge&logoColor=white)
+![Tool--Call QA](https://img.shields.io/badge/Tool--Call_QA-0F3460?style=for-the-badge&logoColor=white)
+![Data Annotation](https://img.shields.io/badge/Data_Annotation-16213E?style=for-the-badge&logoColor=white)
+![RLHF](https://img.shields.io/badge/RLHF--Adjacent_Eval-533483?style=for-the-badge&logoColor=white)
+
+> Evaluating agent outputs across real-world datasets: rating tool-calling correctness, schema validity, value plausibility, and state consistency on 1–5 scoring scales. Applied across dataset configurations including tool-use and deep research QA tasks.
+
 ### 🧠 Core Skill
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -50,8 +58,9 @@ I'm an AI Agent Builder and Automation Architect who specializes in a **low-code
 
 | Certificate | Issuer | Focus |
 |---|---|---|
-| 🎓 AI for Everyone | DeepLearning.AI / Coursera | AI strategy, use cases & business impact |
+| 🎓 Agentic AI Training Workshop | Independent (Mar 2026) | Design & deployment of agentic AI systems for real-world productivity and automation |
 | 🎓 Elements of AI for Business | MinnaLearn | Practical AI applications for organizations |
+| 🎓 AI for Everyone | DeepLearning.AI / Coursera | AI strategy, use cases & business impact |
 
 ---
 
@@ -59,13 +68,11 @@ I'm an AI Agent Builder and Automation Architect who specializes in a **low-code
 
 > *Projects span the full spectrum — from no-code to fully coded AI solutions*
 
-<!-- PIN YOUR BEST REPOS HERE — update these as you build -->
-
 | Project | Type | Description |
 |---|---|---|
-| 🤖 `ai-agent-(gradeflow)` | `low-code` CrewAI + Replit| AI-powered assessment generation tool for L&D teams — ingests course content and instantly produces structured, difficulty-calibrated assessments via a multi-agent CrewAI workflow and Replit-built interface|
-| ⚡ `automation-(team-issue-tracker-automation)` | `[No-Code]` Zapier | End-to-end issue reporting workflow - form submission triggers a Google Sheets log, auto-sends email confirmation to the team member, and fires a Slack alert to the responsible stakeholder for immediate action |
-
+| 🤖 `ai-agent-(gradeflow)` | `low-code` CrewAI + Replit | AI-powered assessment generation tool for L&D teams — ingests course content and instantly produces structured, difficulty-calibrated assessments via a multi-agent CrewAI workflow and Replit-built interface |
+| 📄 `invoice-automation-pipeline` | `[No-Code + AI]` n8n + Claude API | AI-powered invoice processing pipeline — extracts structured data from PDF invoices via Gmail, routes results through a confidence-score gate to Google Sheets, and delivers scheduled HTML digest emails |
+| ⚡ `automation-(team-issue-tracker-automation)` | `[No-Code]` Zapier | End-to-end issue reporting workflow — form submission triggers a Google Sheets log, auto-sends email confirmation to the team member, and fires a Slack alert to the responsible stakeholder for immediate action |
 
 ---
 
