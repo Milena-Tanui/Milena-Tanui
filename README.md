@@ -59,7 +59,7 @@ On the evaluation side, I assess LLM and agent outputs for quality, correctness,
 
 | Certificate | Issuer | Focus |
 |---|---|---|
-| 🎓 Agentic AI Training Workshop | Independent (Mar 2026) | Design & deployment of agentic AI systems for real-world productivity and automation |
+| 🎓 Agentic AI Training Workshop | Kanz (Mar 2026) | Design & deployment of agentic AI systems for real-world productivity and automation |
 | 🎓 Elements of AI for Business | MinnaLearn | Practical AI applications for organizations |
 | 🎓 AI for Everyone | DeepLearning.AI / Coursera | AI strategy, use cases & business impact |
 
