@@ -16,7 +16,8 @@
 
 ## 🧠 About Me
 
-I'm an AI Agent Builder and Automation Architect who specializes in a **low-code approach** — using prompt engineering, CrewAI, and AI-assisted dev tools like Replit and Lovable to build intelligent, functional agents without writing full codebases from scratch. Fast to ship. Focused on outcomes.
+I'm an AI Agent Builder and Automation Architect who specializes in a low-code approach — using prompt engineering, CrewAI, and AI-assisted dev tools like Replit and Lovable to build intelligent, functional agents without writing full codebases from scratch. Fast to ship. Focused on outcomes.
+On the evaluation side, I assess LLM and agent outputs for quality, correctness, and reliability — rating responses, validating JSON schemas, and applying structured scoring frameworks on real annotation datasets.
 
 - 🤖 I design and deploy **AI agents** by engineering prompts in Claude and orchestrating them through CrewAI
 - ⚡ I build **end-to-end automations** with Make, Zapier, and n8n - connecting tools, APIs, and AI models
