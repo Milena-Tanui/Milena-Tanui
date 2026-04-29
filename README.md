@@ -1,107 +1,42 @@
-<div align="center">
+# Milena Tanui — AI Engineer · AI Agent Builder · LLM Evaluator · Automation Architect
 
-# Hey, I'm Milena Tanui 👋🤖
+Based in **Nairobi, Kenya**. I build intelligent AI agents and workflow automations — from Python-powered multi-agent systems with CrewAI, to API-integrated pipelines in n8n, to prompt-engineered tools that ship fast and think on their own.
 
-### AI Agent Builder · Automation Architect · LLM Output Evaluator
+## Core Competencies
 
-*I build intelligent automations with CrewAI, n8n, and Make — and evaluate AI outputs for correctness, schema validity, and quality on real-world datasets.*
+**Python & Agent Development**
+I write Python to build and orchestrate multi-agent systems using CrewAI — defining agent roles, chaining tasks sequentially, and integrating external tools like SerperDev for real-time search and SendGrid for automated delivery.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milena-tanui-64b898173)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanuimilena@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=portfolio&logoColor=white)](https://milena-tanui.github.io/Portfolio/)
+**Workflow Automation & API Integration**
+I design end-to-end automation pipelines in n8n, connecting APIs, AI models, and business tools — from Gmail triggers and Claude API extraction to Google Sheets routing and HTML email digests.
 
-</div>
+**Prompt Engineering**
+I use structured prompt design to define agent behaviour, map workflows, and generate production-ready outputs — the foundation of every system I build.
 
----
+**LLM Evaluation**
+I assess agent outputs for quality, correctness, and reliability — validating JSON schemas, rating tool-call responses, and applying structured scoring frameworks on real annotation datasets.
 
-## 🧠 About Me
+## Technical Stack
 
-I'm an AI Agent Builder and Automation Architect who specializes in a low-code approach — using prompt engineering, CrewAI, and AI-assisted dev tools like Replit and Lovable to build intelligent, functional agents without writing full codebases from scratch. Fast to ship. Focused on outcomes.
-On the evaluation side, I assess LLM and agent outputs for quality, correctness, and reliability — rating responses, validating JSON schemas, and applying structured scoring frameworks on real annotation datasets.
+| Domain | Tools |
+|---|---|
+| Agent Building | CrewAI · Python · Claude · Prompt Engineering |
+| Integrations | SerperDev · SendGrid · Claude API |
+| Automation | n8n · Make · Zapier |
+| Dev Tools | Replit · Lovable · Git |
+| Evaluation | LLM Output QA · Tool-Call Validation · JSON Schema · RLHF-Adjacent Scoring |
 
-- 🤖 I design and deploy **AI agents** by engineering prompts in Claude and orchestrating them through CrewAI
-- ⚡ I build **end-to-end automations** with Make, Zapier, and n8n - connecting tools, APIs, and AI models
-- 🎨 I develop **AI-powered apps** rapidly using Lovable and Replit with AI-assisted code generation
-- 🧠 I use **prompt engineering** as a core technical skill - structuring agent logic, tasks, and workflows
-- 🔍 I evaluate **LLM outputs and agent tool calls** — rating quality, schema correctness, and outcome accuracy across real annotation datasets
-- 👩‍🏫 Former **Project Team Lead** at Scale AI — coordinating remote AI teams *and* doing hands-on evaluation of tool-calling outputs and agent responses
-- 🎓 Certified in **AI for Everyone**, **Elements of AI for Business**, and **Agentic AI Systems**
+## Projects
 
----
+- **[AI News Across Africa](https://github.com/Milena-Tanui/africa-ai-intelligence-crew)** — Python + CrewAI pipeline that researches, filters, and emails a weekly AI briefing across the African continent
+- **[Invoice Automation Pipeline](https://github.com/Milena-Tanui/invoice-automation-pipeline)** — n8n workflow that extracts invoice data from Gmail PDFs via Claude API and routes it to Google Sheets
+- **[GradeFlow](https://github.com/Milena-Tanui/gradeflow)** — Prompt-engineered multi-agent tool that auto-generates calibrated assessments from course content
+- **[Team Issue Tracker](https://github.com/Milena-Tanui)** — Zapier automation that logs issues to Google Sheets, confirms via email, and alerts stakeholders on Slack
 
-## 🛠️ My Stack
+## Background
 
-### 🤖 AI Agent Building (Low-Code)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF6B9D?style=for-the-badge&logoColor=white)
+Previously served as a **Project Team Lead at Scale AI** — coordinating annotation teams and performing hands-on evaluation of agent responses. Certified in AI for Everyone (DeepLearning.AI) and Elements of AI for Business (MinnaLearn). Attended the Agentic AI Training Workshop by Kanz (Mar 2026).
 
-### ⚡ Workflow Automation (No-Code)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+## Get in Touch
 
-### 📋 AI Data Annotation & Evaluation
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-1A1A2E?style=for-the-badge&logoColor=white)
-![Tool--Call QA](https://img.shields.io/badge/Tool--Call_QA-0F3460?style=for-the-badge&logoColor=white)
-![Data Annotation](https://img.shields.io/badge/Data_Annotation-16213E?style=for-the-badge&logoColor=white)
-![RLHF](https://img.shields.io/badge/RLHF--Adjacent_Eval-533483?style=for-the-badge&logoColor=white)
-
-> Evaluating agent outputs across real-world datasets: rating tool-calling correctness, schema validity, value plausibility, and state consistency on 1–5 scoring scales. Applied across dataset configurations including tool-use and deep research QA tasks.
-
-### 🧠 Core Skill
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## 🏆 Certifications
-
-| Certificate | Issuer | Focus |
-|---|---|---|
-| 🎓 Agentic AI Training Workshop | Kanz (Mar 2026) | Design & deployment of agentic AI systems for real-world productivity and automation |
-| 🎓 Elements of AI for Business | MinnaLearn | Practical AI applications for organizations |
-| 🎓 AI for Everyone | DeepLearning.AI / Coursera | AI strategy, use cases & business impact |
-
----
-
-## 📌 Featured Projects
-
-> *Projects span the full spectrum — from no-code to fully coded AI solutions*
-
-| Project | Type | Description |
-|---|---|---|
-| 🤖 `ai-agent-(gradeflow)` | `low-code` CrewAI + Replit | AI-powered assessment generation tool for L&D teams — ingests course content and instantly produces structured, difficulty-calibrated assessments via a multi-agent CrewAI workflow and Replit-built interface |
-| 📄 `invoice-automation-pipeline` | `[No-Code + AI]` n8n + Claude API | AI-powered invoice processing pipeline — extracts structured data from PDF invoices via Gmail, routes results through a confidence-score gate to Google Sheets, and delivers scheduled HTML digest emails |
-| ⚡ `automation-(team-issue-tracker-automation)` | `[No-Code]` Zapier | End-to-end issue reporting workflow — form submission triggers a Google Sheets log, auto-sends email confirmation to the team member, and fires a Slack alert to the responsible stakeholder for immediate action |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Milena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Milena-Tanui)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Milena-Tanui)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Milena-Tanui&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 💡 My Automation Philosophy
-
-> *"You don't need to write every line of code to build something powerful — you need to know what to build and how to make it think."*
-
-I believe in **prompt engineering as a superpower** — using tools like Claude, CrewAI, Replit and Lovable to architect intelligent agents fast, then automating the rest with Make, Zapier, and n8n. Low-code isn't a shortcut. It's a strategy.
-
----
-
-<div align="center">
-
-*Open to collaborations, freelance projects, and conversations about AI & automation.*
-**Let's build something intelligent together. 🚀**
-
-</div>
+[Portfolio](https://milena-tanui.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/milena-tanui-64b898173) · [Upwork](https://www.upwork.com/freelancers/~0102229f1e67bafa02) · [Email](mailto:tanuimilena@gmail.com)
