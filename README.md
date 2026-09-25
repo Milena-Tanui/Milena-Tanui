@@ -2,7 +2,6 @@
 
 ### Automation Builder | Process Improvement
 
-Nairobi, Kenya
 Open to automation and operations roles, freelance and full-time
 
 I design and build automations that take repetitive manual work off people's hands, using platforms like n8n, Zapier, Make, and GoHighLevel. I bring in light scripting only where it's needed to connect systems together. This sits alongside my work as an Operations Lead, where I look for where a process is breaking down before deciding whether it needs a rebuild or just an automation. 
