@@ -1,4 +1,4 @@
-# Hi, I'm Milena Tanui
+# ![Hi, I'm Milena Tanui](./assets/title-banner.svg) 
 
 ### Automation Builder | Process Improvement
 
